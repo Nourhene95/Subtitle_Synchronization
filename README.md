@@ -1,10 +1,12 @@
 # Subtitle_Synchronization
-Summer Internship
+ ## Summer Internship
 
 
+\
+\
 
-
-How to use this project: \
+### How to use this project: \
+\
 Download the folder and unzip it.\
 $cd Subtitle_Synchronization \
 $wget https://s3.amazonaws.com/audioanalysis/models.tar.gz \
