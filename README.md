@@ -2,10 +2,10 @@
  ## Summer Internship
 
 
-\
+
 \
 
-### How to use this project: \
+### How to use this project: 
 \
 Download the folder and unzip it.\
 $cd Subtitle_Synchronization \
