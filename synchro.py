@@ -5,7 +5,6 @@ import pysrt
 import librosa
 from pydub import AudioSegment
 import glob
-​import pysrt
 
 
 parser = argparse.ArgumentParser(description='Read file and process audio')
