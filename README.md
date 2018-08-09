@@ -6,7 +6,7 @@
 
 ## How to use this project: 
 \
-Download the folder and unzip it.\
+Download the folder and unzip it.
 ```bash
 $cd Subtitle_Synchronization 
 $wget https://s3.amazonaws.com/audioanalysis/models.tar.gz 
